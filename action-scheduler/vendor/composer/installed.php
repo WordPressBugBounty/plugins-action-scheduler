@@ -1,9 +1,9 @@
 <?php return array(
     'root' => array(
         'name' => 'woocommerce/action-scheduler',
-        'pretty_version' => 'dev-release/3.9.1',
-        'version' => 'dev-release/3.9.1',
-        'reference' => 'd73b5f83cd42832fa137e03687bad3e312298d29',
+        'pretty_version' => 'dev-release/3.9.2',
+        'version' => 'dev-release/3.9.2',
+        'reference' => 'efbb7953f72a433086335b249292f280dd43ddfe',
         'type' => 'wordpress-plugin',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
@@ -11,9 +11,9 @@
     ),
     'versions' => array(
         'woocommerce/action-scheduler' => array(
-            'pretty_version' => 'dev-release/3.9.1',
-            'version' => 'dev-release/3.9.1',
-            'reference' => 'd73b5f83cd42832fa137e03687bad3e312298d29',
+            'pretty_version' => 'dev-release/3.9.2',
+            'version' => 'dev-release/3.9.2',
+            'reference' => 'efbb7953f72a433086335b249292f280dd43ddfe',
             'type' => 'wordpress-plugin',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
